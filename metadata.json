@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS AI",
+  "description": "An AI-powered Life Operating System with proactive accountability, voice brain dumps, distraction blocking, dopamine lock, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
